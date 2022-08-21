@@ -6,5 +6,5 @@ export default defineConfig({
 	integrations: [preact()],
 });
 
-site: 'https://odwrotnie.github.io'
-base: '/instap-app/website-definition'
+site: 'https://instap-app.github.io'
+base: '/website-definition'
