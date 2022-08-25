@@ -6,5 +6,5 @@ export default defineConfig({
 	integrations: [preact()],
 });
 
-site: 'https://instap-app.github.io/website-definition'
+site: 'https://instap-app.github.io/website-definition/'
 base: '/website-definition'
